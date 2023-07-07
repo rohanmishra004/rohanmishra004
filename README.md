@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanmishra004
 - 👀 I’m interested in Backend Developement and MicroServices
-- 🌱 I’m currently learning NodeJs and ReactJS
+- 🌱 I’m currently learning GoLang
 - 📫 How to reach me linkedIn - https://www.linkedin.com/in/rohan-mishra-6b6b4190/
 
 <!---
